@@ -1,0 +1,134 @@
+Create a clean, modern, white-dominant portfolio website for a personal sales consultant.
+Use the Grow Captain color palette:
+– Dark Grey (#555 or similar)
+– Purple (#702F8A or similar)
+– Orange accent shaped like an upward arrow (growth symbol)
+Ensure the UI is minimal, premium, extremely spacious, and highly readable. The logo already exists — do NOT generate a new logo.
+
+Design Requirements:
+– Full white background across the entire site
+– Minimal rounded typography
+– Plenty of white spacing
+– Subtle orange arrow motifs for growth
+– Purple for section headings
+– Grey for body text
+– No gradients or heavy colors
+– Overall clean premium feel like modern consulting brands
+
+Include the following FULL SEO-optimized content exactly:
+
+====================================
+
+HERO SECTION
+
+Headline:
+‘Scale Your Sales. Strengthen Your Brand.’
+
+Sub-headline:
+‘Personal sales consulting that boosts conversions, builds trust, and turns prospects into loyal customers.’
+
+Value Line:
+‘Helping businesses close more deals through strategy, communication, and customer psychology.’
+
+CTA Buttons:
+– Start a Consultation →
+– View Portfolio
+
+====================================
+
+ABOUT ME SECTION
+
+Title: ‘About Your Sales Consultant’
+
+SEO Bio:
+‘I am a performance-driven sales consultant who helps brands improve their sales systems, customer engagement, and lead-to-client conversion rates. With experience across multiple industries, I bring structured processes, emotional intelligence, and refined communication strategies to elevate sales outcomes.
+My approach:
+✔ Understand your customer
+✔ Identify your bottlenecks
+✔ Build a scalable sales strategy
+✔ Train your team to execute with confidence
+If you're looking to strengthen your sales pipeline and close deals consistently, you're in the right place.’
+
+====================================
+
+SERVICES SECTION
+
+Title: ‘What I Can Do for Your Business’
+
+Service 1: Sales Funnel Optimization
+‘Improve your lead flow, conversion steps, and customer journey to maximize revenue from every prospect.’
+
+Service 2: Sales Strategy & Planning
+‘Custom strategies designed for your brand’s audience, business model, and long-term goals.’
+
+Service 3: Personal Sales Coaching
+‘1-on-1 coaching for founders and teams to improve confidence, persuasion, and consistency.’
+
+Service 4: Customer Communication Design
+‘Scripts, templates, and communication flows that increase replies, trust, and conversions.’
+
+Service 5: Brand Positioning & Messaging
+‘Messaging frameworks that differentiate your brand and influence buying decisions.’
+
+Use white cards with thin grey borders and small orange arrow icons.
+
+====================================
+
+PORTFOLIO / CASE STUDIES SECTION
+
+Title: ‘Work That Delivered Results’
+
+Case Study Snippets:
+– ‘Increased conversions by 42% through optimized communication and follow-up systems.’
+– ‘Reduced sales response time by 60% through pipeline restructuring.’
+– ‘Improved deal closures by 30–50% after sales team communication training.’
+
+Display as a clean white gallery with subtle shadows.
+
+====================================
+
+TESTIMONIALS SECTION
+
+Title: ‘What Clients Say’
+
+Testimonials:
+‘Professional, clear, and extremely effective. Our sales doubled within two months.’ — Founder, Retail Brand
+‘The strategies gave us clarity and direction. Best sales consulting experience.’ — CEO, SaaS Startup
+‘He transformed our communication approach and it changed everything.’ — Business Owner
+
+Use white cards with purple name highlights.
+
+====================================
+
+CONTACT SECTION
+
+Title: ‘Let’s Grow Your Sales’
+
+SEO text:
+‘If you're ready to refine your sales strategy, strengthen customer trust, and grow your brand’s revenue — let’s talk.’
+
+Form fields:
+– Name
+– Email
+– Business Name
+– What do you need help with?
+Button: ‘Book Consultation →’
+
+====================================
+
+SEO META CONTENT (INCLUDE AS PART OF THE DESIGN DELIVERABLE)
+
+Meta Title: Personal Sales Consultant | Sales Strategy, Coaching & Funnel Optimization
+Meta Description: Professional sales consultant helping businesses improve conversions, communication, and customer engagement with proven strategies. Get personalized consulting today.
+SEO Keywords: sales consultant, sales consulting services, sales strategy expert, sales funnel consultant, personal sales coach, conversion improvement, brand growth consultant
+
+====================================
+
+Deliverables:
+– Full website UI design (desktop + mobile)
+– White-dominant theme
+– Use Grow Captain color palette
+– Vector-sharp output
+– Minimal consulting aesthetic
+– Proper spacing, layout and modern UX components
+– Ready for conversion into React/Vite website
