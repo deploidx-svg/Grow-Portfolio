@@ -16,15 +16,15 @@ import { useForm } from "react-hook-form";
 import { z } from "zod";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { useToast } from "@/hooks/use-toast";
-import logo from "@assets/growcapi_1765462120082.png";
+import logo from "@assets/growcapi-removebg-preview_1765464183725.png";
 
 // --- Components ---
 
 const Navbar = () => (
   <nav className="fixed top-0 left-0 right-0 z-50 bg-white/80 backdrop-blur-md border-b border-gray-100">
     <div className="container mx-auto px-6 h-20 flex items-center justify-between">
-      <div className="flex items-center">
-        <img src={logo} alt="Grow Capital" className="h-12 w-auto object-contain" />
+      <div className="flex items-center -ml-4">
+        <img src={logo} alt="Grow Capital" className="h-24 w-auto object-contain" />
       </div>
       <div className="hidden md:flex items-center gap-8">
         <a href="#about" className="text-gray-600 hover:text-primary transition-colors text-sm font-medium">About</a>
@@ -430,8 +430,8 @@ const Contact = () => {
 const Footer = () => (
     <footer className="py-12 bg-white border-t border-gray-100">
         <div className="container mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-6">
-             <div className="flex items-center">
-                <img src={logo} alt="Grow Capital" className="h-10 w-auto object-contain" />
+             <div className="flex items-center -ml-3">
+                <img src={logo} alt="Grow Capital" className="h-16 w-auto object-contain" />
             </div>
             <div className="text-sm text-gray-400">
                 © {new Date().getFullYear()} Grow Capital. All rights reserved.
